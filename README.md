@@ -1,9 +1,5 @@
 
 # 📊 University Progression Predictor  
-**Predict student outcomes with Python!**  
-![Progress Tracker](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yY3V6eGJtN3RlY2R6dGJ6c2V6Y2V4eWZ1bGJ6eGZqZ2N6eGZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKTDn976uzZh40s/giphy.gif) *(Replace with your GIF link)*  
-
----
 
 ## 🚀 **Features**  
 | Feature | Emoji | Description |
@@ -33,7 +29,6 @@
 ---
 
 ## 🎥 **Demo**  
-![Program Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yY3V6eGJtN3RlY2R6dGJ6c2V6Y2V4eWZ1bGJ6eGZqZ2N6eGZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif) *(Replace with a screencast GIF of your program running)*  
 
 **Example Output**:  
 ```plaintext
