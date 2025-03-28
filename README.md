@@ -1,6 +1,8 @@
 
 # 📊 University Progression Predictor  
 
+### This Python program is designed to predict the progression outcomes for university students at the end of an academic year, based on their credits at pass, defer, and fail levels. The program adheres to specific university regulations to determine outcomes such as Progress, Progress (module trailer), Module Retriever, or Exclude.
+
 ## 🚀 **Features**  
 | Feature | Emoji | Description |
 |---------|-------|-------------|
